@@ -2,7 +2,7 @@
 // Node 22, standard library only. The entry image lives in this repository at
 // assets/entry.png. This program copies those exact bytes to the output
 // directory so both grading runs write identical files. The image is a
-// front page in dominant navy blue: three headline stories, twelve
+// front page in dominant navy blue, the colour Tem chose for this edition: three headline stories, twelve
 // illustrated grid stories with small navy in-panel labels, a numbered list,
 // a world map and a date-check strip, thirty-two stories in all. All pictures
 // are flat-design illustrations drawn for this page and every word is set in

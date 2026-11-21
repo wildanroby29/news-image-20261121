@@ -1,3 +1,4 @@
+# build output (kept out of the repo)
 __pycache__/
 *.pyc
 out/
